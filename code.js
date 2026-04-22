@@ -21,5 +21,5 @@ btn.onclick = function(){
             alert('Повторите вопрос, воможно, у вас нет точки');
             
         });
-    inpt.value = '';
+    
 };
