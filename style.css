@@ -54,3 +54,7 @@ main > button{
     color: rgb(53, 53, 53);
     text-shadow: 0 0 5px rgb(255, 153, 36, 50%);
 }
+main > img{
+    margin-left: 20%;
+    size: 60%;
+}
