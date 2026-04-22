@@ -20,5 +20,4 @@ btn.onclick = function(){
             console.error('Error for API', error);
             alert('Retun unswer');
         });
-    inpt.value = ''
 };
