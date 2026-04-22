@@ -55,6 +55,6 @@ main > button{
     text-shadow: 0 0 5px rgb(255, 153, 36, 50%);
 }
 main > img{
-    margin-left: 20%;
-    size: 60%;
+    margin-left: 200px;
+    size: 1000px;
 }
