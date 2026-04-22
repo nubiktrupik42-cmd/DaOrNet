@@ -56,5 +56,5 @@ main > button{
 }
 main > img{
     margin-left: 200px;
-    size: 1000px;
+    block-size: 200px;
 }
