@@ -18,6 +18,6 @@ btn.onclick = function(){
         })
         .catch(error => {
             console.error('Error for API', error);
-            alert('Retun unswer');
+            alert('Повторите вопрос, воможно, у вас нет точки');
         });
 };
